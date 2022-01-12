@@ -1,3 +1,4 @@
 {
-  t: true
+  "loadingmessage": true,
+  "messages": ["Test1", "Test2"]
 }
